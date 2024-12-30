@@ -2,6 +2,7 @@
 <h2 align="center">Modern UI/UX SaaS Website</h2>
 <div align="center">
   <br />
+  <img src="https://github.com/Rotaralexc/xora_saas_landing_page/blob/b00ebddccb10b1afa211e48c6c04d677d0cf87e2/Xora.png" alt="Project Banner">
   <br />
 
 <h2 align="center">DEMO</h2>
