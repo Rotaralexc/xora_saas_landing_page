@@ -5,7 +5,12 @@
   <img src="https://github.com/Rotaralexc/xora_saas_landing_page/blob/b00ebddccb10b1afa211e48c6c04d677d0cf87e2/Xora.png" alt="Project Banner">
   <br />
 
+  
+
 <h2 align="center">DEMO</h2>
+ <br />
+
+https://github.com/user-attachments/assets/9c2cf841-7bcb-4553-95e2-43376df090be
 
 </div>
 
